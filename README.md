@@ -51,8 +51,7 @@ Issuing Organization: Red Hat
 Date Obtained: November 2023
 
 This certification validates my ability to deploy, configure, and manage Red Hat Enterprise Linux systems. It demonstrates my proficiency in system administration tasks such as configuring networking, managing storage, securing systems, and automating tasks.
-Relevance to Projects: The skills learned through RHCSA are applied to various projects, including system hardening, server configuration, and maintaining the security and performance of Linux-based environments. You can see examples of these skills in my projects such as system hardening scripts, patch management solutions, and more.
-Link: Red Hat Certification Portal
+<img src="https://images.credly.com/size/340x340/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" />
 
     
 Projects
