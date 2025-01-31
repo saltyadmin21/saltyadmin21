@@ -1,7 +1,6 @@
 Hello, I'm CHANGEME
+<a href="https://www.linkedin.com/in/mlsalinas"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-[Brief Introduction - Remove this afterwards]
 
 I am an experienced Windows/Linux Systems Administrator with a strong passion for automation, system performance, and troubleshooting. I specialize in maintaining and optimizing Linux-based infrastructures and ensure the stability, security, and scalability of enterprise-level systems.
 
