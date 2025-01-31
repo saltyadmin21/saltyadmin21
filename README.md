@@ -26,16 +26,16 @@ Skill	Associated Project
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Server Monitoring Script                      | <a href="https://google.com">Detection Lab</a>|
+| Automated System Updates                      | <a href="https://google.com">Detection Lab</a>|
+| System Hardening Scripts                      | SOC Automation Lab|
+| Log Rotation and Management                   | SOC Automation Lab|
+| User and group management                     | SOC Automation Lab|
+| Performance Optimization for Linux Servers    | SOC Automation Lab|
 
 
 Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 Network
   
